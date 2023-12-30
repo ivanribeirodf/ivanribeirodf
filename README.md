@@ -20,9 +20,16 @@
 <br/>
 
 
-<a href="https://github.com/ivanribeirodf/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ivanribeirodf&theme=dracula" />
-</a>
-<a href="https://github.com/ivanribeirodf/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivanribeirodf&layout=compact&langs_count=8&card_width=320&theme=dracula" />
-</a>
+<div style="display: flex;"> 
+    <div style="width: 100px; height: 100px; border: 1px solid #000; margin: 5px;">
+      <a href="https://github.com/ivanribeirodf/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ivanribeirodf&theme=dracula" />
+    </a>
+    </div>
+    <div style="width: 100px; height: 100px; border: 1px solid #000; margin: 5px;">
+      <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank"><img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=ivanribeirodf&theme=dark" alt="Streak Stats" /></a>
+    </div>
+    <div style="width: 100px; height: 100px; border: 1px solid #000; margin: 5px;">
+      <a href="https://github.com/ivanribeirodf/convoychat"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivanribeirodf&layout=compact&langs_count=8&card_width=320&theme=dracula" /></a> 
+    </div>
+</div>
