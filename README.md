@@ -20,7 +20,7 @@
 <br/>
 
 
-|   |   |   |
-|---|---|---|
-| [![Stats](https://github-readme-stats.vercel.app/api?username=ivanribeirodf&theme=dracula)](https://github.com/ivanribeirodf/github-readme-stats)  | [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ivanribeirodf&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ivanribeirodf&layout=compact&langs_count=8&card_width=320&theme=dracula)](https://github.com/ivanribeirodf/convoychat)  |
+|   |   | 
+|---|---|
+| [![Stats](https://github-readme-stats.vercel.app/api?username=ivanribeirodf&theme=dracula)](https://github.com/ivanribeirodf/github-readme-stats)  | [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ivanribeirodf&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)    |
 
