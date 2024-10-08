@@ -9,6 +9,8 @@
 
 ## Technology I use in my daily life
 <div style="display: inline_block"><br/> 
+ <!-- <img align="center" alt="Rexx" height=50 src="https://github.com/user-attachments/assets/e115ae0d-18a7-4e7e-8cd7-d8ef572d18e2" /> -->
+  <img align="center" alt="Rexx Mainframe" src="https://img.shields.io/badge/Rexx%20Mainframe-z%2FOS?style=for-the-badge&color=red" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
