@@ -54,7 +54,7 @@ I'm a passionate developer transforming ideas into systems. I love working with 
 - 🔗 [Projeto_Ongs](https://github.com/ivanribeirodf/Projeto_Ongs) - ONG project using JavaScript
 - 🔗 [registramais](https://github.com/ivanribeirodf/registramais) - Vue.js app
 - 🔗 [pizzaworld](https://github.com/ivanribeirodf/pizzaworld) - Pizza delivery world
-- 🔗 [thepetfriends-backend](https://github.com/ivanribeirodf/thepetfriends-backend) - Backend system for pet lovers
+- 🔗 [GroovySpring-CRUD](https://github.com/ivanribeirodf/GroovySpring-CRUD.git) - Backend Spring Boot + Groovy
 
 ---
 
